@@ -39,7 +39,7 @@ I'm continuously experimenting with new ideas and adding projects as I learn.
 
 ## 🌱 A Little About My Journey
 
-I don't have everything figured out yet — and that's okay.
+I'm still exploring different areas of technology and figuring out where I want to grow.
 
 I'm building my skills one project, one problem, and one lesson at a time.
 
