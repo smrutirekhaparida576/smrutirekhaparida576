@@ -2,10 +2,11 @@
 
 🎓 **Integrated MCA Student | AI & Technology Enthusiast**
 
-I'm a student who enjoys turning curiosity into code.  
-I'm particularly interested in **Artificial Intelligence, Machine Learning, Computer Vision, and software development**.
+I'm currently studying at **Utkal University**, where I'm building my foundation in computer science and exploring different areas of technology.
 
-I learn best by building things, experimenting with ideas, and figuring out what doesn't work along the way. 🚀
+I enjoy taking an idea, turning it into a project, and learning from the process — whether it works on the first try or not. 🚀
+
+Right now, I'm especially curious about **AI, Computer Vision, and how technology can be applied to real-world problems**.
 
 ---
 
