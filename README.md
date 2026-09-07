@@ -1,6 +1,6 @@
 # Hey! I'm Smruti 👋
 
-🎓 **Integrated MCA Student | AI & Technology Enthusiast **
+🎓 **Integrated MCA Student | AI & Technology Enthusiast**
 
 I'm a student who enjoys turning curiosity into code.  
 I'm particularly interested in **Artificial Intelligence, Machine Learning, Computer Vision, and software development**.
