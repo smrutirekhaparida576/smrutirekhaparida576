@@ -48,9 +48,9 @@ I'm building my skills one project, one problem, and one lesson at a time.
 
 ## 🔗 Let's Connect
 
-💼 [LinkedIn](YOUR_LINKEDIN_LINK)
+💼 [LinkedIn](https://www.linkedin.com/in/smruti-rekha-parida-972542387/)
 
-📧 YOUR_EMAIL
+📧 smrutirekhaparida576@gmail.com
 
 ---
 
